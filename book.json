@@ -1,0 +1,4 @@
+{
+  "title": "Breseman Family Recipes",
+  "ignores": [".*", "_book", "README.md", "SUMMARY.md"]
+}
