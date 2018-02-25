@@ -1,11 +1,11 @@
 # Dutch Bunny/German Apple Pancake
 
 ## Ingredients
-3 eggs
-¾ c milk
-¾ c flour
-½ t salt
-¼ c butter
+* 3 eggs
+* ¾ c milk
+* ¾ c flour
+* ½ t salt
+* ¼ c butter
 
 ## Directions
 Preheat oven to 450F.
