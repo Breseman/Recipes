@@ -1,3 +1,4 @@
 # Your Book Name
 
-  * [Crepes](/crepes.md)
+- Recipes
+    * [Crepes](/recipes/crepes.md)
