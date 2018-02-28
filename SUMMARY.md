@@ -6,7 +6,6 @@
     * [Baguette](/recipes/bread/baguette.md)
     * [Basic Bread](/recipes/bread/basic bread.md)
     * [Rosemary Olive Sourdough](/recipes/bread/rosemary olive sourdough.md)
-    * [test](test.md)
   * Breakfast
     * [Crepes](/recipes/breakfast/crepes.md)
     * [Dutch Bunny](/recipes/breakfast/dutch bunny.md)
