@@ -3,8 +3,8 @@
 - Bread
     * [Baguette](/bread/baguette.md)
     * [Basic Bread](/bread/basic bread.md)
-    * [Rosemary Olive Bread From Marieke S Recipe](/bread/rosemary olive bread from Marieke's recipe.md)
     * [Rosemary Olive Sourdough](/bread/rosemary olive sourdough.md)
+    * [Olive Bread](/bread/walnut-olive bread.md)
 - Breakfast
     * [Crepes](/breakfast/crepes.md)
     * [Dutch Bunny](/breakfast/dutch bunny.md)
