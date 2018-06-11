@@ -21,7 +21,7 @@
     * [Taffy](/recipes/candy/taffy.md)
     * [Toffee](/recipes/candy/toffee.md)
   * Cookies
-    * \[Bruce S Brownies\]\(/recipes/cookies/bruce's brownies.md\)
+    * [Bruce\'s Brownies](/recipes/cookies/bruce's brownies.md\)
     * [Chocolate Oatmeal Cookies](/recipes/cookies/chocolate oatmeal cookies.md)
     * [Ginger Snaps](/recipes/cookies/ginger snaps.md)
     * [Lemon Bars](/recipes/cookies/lemon bars.md)
