@@ -5,6 +5,7 @@
       * [Baguette](/recipes/bread/baguette.md)
       * [Basic Bread](/recipes/bread/basic bread.md)
       * [Rosemary Olive Sourdough](/recipes/bread/rosemary olive sourdough.md)
+      * [Olive-Walnut Bread from Marieke's Recipe](/recipes/bread/rosemary olive bread from Marieke's recipe.md)
   - Breakfast
       * [Crepes](/recipes/breakfast/crepes.md)
       * [Dutch Bunny](/recipes/breakfast/dutch bunny.md)
