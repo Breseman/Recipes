@@ -3,7 +3,7 @@
 
 ## Ingredients
 ### Crust
-* 2 cups graham crackers (crushed)
+* 2 cups crushed graham crackers (about 10)
 * ¼ cup melted butter
 * ¼ cup sugar
 
