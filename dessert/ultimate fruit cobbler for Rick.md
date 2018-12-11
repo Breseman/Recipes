@@ -6,23 +6,25 @@
 ### Filling
 * 10 c cut up fruit
 * ¾ c sugar
-* ½ c flour
-* ½ t cinnamon
-* ½ c lemon
+* 4 T corn starch
+* 1½ c liquid
 
 ### Crust
-* 3 c oatmeal
-* ¾ c brown sugar
-* ½ t cinnamon
-* ¼ t salt
-* ½ c melted margarine
-* ½ c chopped pecans
+* 1 c flour
+* ¾ c oatmeal
+* ½ c brown sugar
+* 1 t cinnamon
+* ½ c melted butter or margarine
+* ½ c chopped walnuts
 
 ## Directions
-Preheat oven to 440.
+Preheat oven to 450.
 
 Mix filling ingredients and put in a 9x14” baking dish.
 
 Mix crust ingredients and spread evenly over fruit mixture.
 
-Bake: 15 mins at 440º; 25 mins at 350º.
+Bake:
+* 20 mins at 450º
+* 20 mins at 350º
+* Oven off but don't open the door! Let it sit another 20 minutes
