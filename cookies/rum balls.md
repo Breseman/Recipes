@@ -6,7 +6,7 @@
 * 1 c powdered sugar
 * 2 T cocoa powder
 * ¼ c rum
-* 1 ½ T light corn syrup
+* 1½ T light corn syrup
 
 ## Directions
 Combine ingredients in order.
