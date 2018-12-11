@@ -1,5 +1,7 @@
 # Rick’s Ultimate Fruit Cobbler
 
+![](https://i.imgur.com/sYz87lN.jpg)
+
 ## Ingredients
 ### Filling
 * 10 c cut up fruit
