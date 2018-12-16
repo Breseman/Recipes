@@ -1,32 +1,38 @@
 # Santa Lucia Buns
-350 | 20 mins | 36 buns
+350 | 12 mins | 30 buns
 
 ## Ingredients
 * ½ c warm water (about 110˚)
-* ¾ c soft butter
-* 7 c flour
-* 2 T active dry yeast
+* 5.5 t yeast
+* ¾ c milk
 * 1 c sugar
-* ¾ t salt
-* ¼ t saffron (or 1½ t ground cardamom & 1 t grated orange peel)
-* 1 egg
+* 1 t ground cardamom
+* 1 t saffron
+* ½ c butter (salted)
+* 5 c flour
+* 2 eggs
+
 
 ### Topping
-* ½ c dark raisins or currants
-* 2 egg yolks mixed with 1½ T water
+* ½ c raisins or currants
+* 1 egg yolk mixed with 1 T water
 
 ## Directions
-Combine warm water and soft butter. Add yeast.
+In KitchenAid bowl, combine water and yeast. Let stand until foamy.
 
-Mix flour, sugar, salt, saffron (or cardamom/orange substitute); add to water/butter/yeast mixture.
+Microwave milk, sugar, cardamom, and saffron until very warm. Add butter.
 
-Add egg, beat again.
+Once the mixture has cooled and the butter has melted, add to KitchenAid bowl.
 
-Add a cup at a time up to 5½ c flour until it forms a very stiff dough. Knead until smooth & elastic (10 min).
+Add flour and knead (using dough hook) until the dough comes together.
 
-Put dough in a greased bowl, turn over to grease top, cover & let rise in a warm place until double (1 hr).
+Add the eggs one at a time and continue kneading until dough is smooth and elastic (5-10 minutes).
 
-Punch down dough, turn out onto a lightly floured board, knead lightly again.
+Cover & let rise in a warm place until double (1 hr).
+
+Punch down dough, let rise for 45 more minutes.
+
+Turn out onto a lightly floured board, knead lightly again.
 
 Pinch off balls of dough about 1½” in diameter, roll each into a smooth rope about 12” long.
 
@@ -36,4 +42,4 @@ Cover and let rise in a warm place 25 minutes.
 
 Brush evenly with yolk-water mixture for golden tops.
 
-Bake 20 minutes at 350F.
+Bake 12 minutes at 350F.
