@@ -2,12 +2,12 @@
 400° | 18 mins baking
 
 ## Ingredients
-* 3 cups flour
-* 1 ½ tsp. salt
-* 2 tsp. sugar
-* 1 ½ tsp. shortening
-* 1 cup, 1 Tbsp. water
-* 1 ½ tsp. yeast
+* 3 c flour
+* 1 ½ t salt
+* 2 t sugar
+* 1 ½ t shortening
+* 1 c + 1 T water
+* 1 ½ t yeast
 
 ## Directions
 
@@ -21,8 +21,6 @@ Preheat oven to 400°.
 
 Roll out to long submarine-shape.
 
-Roll up, and place on cookie sheet with corn meal on it.
+Roll up, and place on cookie sheet with cornmeal on it.
 
 Bake for 18 minutes.
-
-Serve immediately.
