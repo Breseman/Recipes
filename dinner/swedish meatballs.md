@@ -14,12 +14,12 @@
 * ½ c milk
 
 ### Gravy
-¼ - ½ c flour
-1 t paprika
-½ t salt
-1/8 t pepper
-Stir in 2-3 cups hot water
-¾ c sweet or sour cream or ( ¾ c milk + 1 t vinegar)
+* ¼ - ½ c flour
+* 1 t paprika
+* ½ t salt
+* 1/8 t pepper
+* Stir in 2-3 cups hot water
+* ¾ c sweet or sour cream (or ¾ c milk + 1 t vinegar)
 
 ## Directions
 Combine meatball ingredients. Shape into balls the size of a walnut. Brown in ¼ c hot salad oil.
