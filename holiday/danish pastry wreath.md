@@ -1,9 +1,9 @@
 # Danish Pastry Wreath
-375° | ½ hr chill | 3hrs chill | 1hr rising | 23mins baking | makes 2
+375° | 6 hr chilling | 1 hr rising | 23 mins baking | makes 2 wreaths
 
 ## Ingredients
 
-### Dough
+##### Dough
 * 1 ½ cup room temperature butter (unsalted)
 * 4 c flour
 * ¾ c milk
@@ -13,27 +13,25 @@
 * 2 T yeast
 * 1 egg
 
-### Filling and Toppings
+##### Filling and Toppings
 * 1 can almond filling
 * 1/4 cup sliced almonds (toasted)
 * Powdered sugar
 
 ## Directions
 
-### Dough (do a day ahead)
+##### Dough (do a day ahead)
 Wet counter so waxed paper will stick to it.
 
-Beat butter with ¼ c flour until smooth; spread onto wax paper to 12x8” rectangle. Refrigerate on cookie sheet.
+Beat butter with ¼ c flour until smooth; spread onto wax paper to 12x8” rectangle. Refrigerate on cookie sheet at least 1 hour.
 
-Heat milk slightly; stir in sugar and salt until dissolved.
-
-Dissolve yeast in 1/2 cup warm water and add to milk. Add egg.
+Heat milk slightly; stir in sugar and salt until dissolved. Add yeast, warm water, and egg.
 
 Slowly add up to 3¾ c flour. Knead just until the dough becomes smooth. Cover and refrigerate 30 minutes.
 
 Roll out refrigerated dough into 16x12” rectangle. Place chilled butter mixture over half. Fold over & seal.
 
-Roll out to 16x8”. Fold into thirds, using short side, making 3 layers. Seal edges.
+Roll out to 16x8”, taking care not to break the butter layer. Fold into thirds, using short side, making 3 layers. Seal edges.
 
 Chill 1 hr.
 
@@ -44,7 +42,7 @@ Chill ½ hr. Roll, fold, seal.
 Chill 3 hrs or overnight in foil.
 
 
-## Filling
+#### Filling
 Roll half of dough into 22x8” strip. Cut into thirds lengthwise.
 
 Fill center of each strip with 1/3 c of filling. Close edges over filling. Carefully braid strips.
