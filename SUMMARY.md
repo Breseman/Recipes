@@ -20,6 +20,7 @@
     * [Toffee](/candy/toffee.md)
 - Cookies
     * [Brownies From Bruce](/cookies/brownies from bruce.md)
+    * [Brownies With Beets](/cookies/brownies with beets.md)
     * [Chocolate Chip Cookies With Almond Flour](/cookies/chocolate chip cookies with almond flour.md)
     * [Chocolate Oatmeal Cookies](/cookies/chocolate oatmeal cookies.md)
     * [Ginger Snaps](/cookies/ginger snaps.md)
